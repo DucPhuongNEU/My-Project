@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/backtotop.css=UTF-8
+encoding//src/model/Connection/MySQLConnection.java=UTF-8
+encoding//src/model/DemoUpload.java=UTF-8
+encoding//src/model/ProductModel.java=UTF-8
+encoding//src/model/ProductWishModel.java=UTF-8
+encoding//src/model/WishListModel.java=UTF-8
+encoding//src/servletAction/AccountEditPassAction.java=UTF-8
+encoding//src/servletAction/AccountRegisterAction.java=UTF-8
+encoding//src/servletAction/ProductAction.java=UTF-8
+encoding//src/servletAction/SaverWish.java=UTF-8
